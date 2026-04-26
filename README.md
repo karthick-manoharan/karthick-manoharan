@@ -1,7 +1,5 @@
 # Hello 👋, I'm Karthick S. Manoharan
 
-> One section tells you everything. Start with How I think.
-
 ---
 
 ### 🧐 How I think
