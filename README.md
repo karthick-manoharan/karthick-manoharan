@@ -13,15 +13,15 @@ Software happens to be the craft I tinker with most. It's where I get to run thi
 ### ✅ Shipped
 **[TabDrop](https://github.com/karthick-manoharan/tab-drop)** -- Effortless browser tab reference to your AI prompts in Chrome browser - instantly ⚡️
 
+**[UnderstandThis.company](https://understand-this-company.vercel.app/)** — *The missing half of the job description.*
+A JD tells you what the company expects. It rarely tells you what you should know going in.
+BeforeInterview fixes that gap — for the candidate.
+
 ### 🚧 Actively Building
 
 **[MindsEye](https://www.mindseye.love)** — *See beyond the line.*
 The web was built for attention, not absorption. So it gave us scroll bars.
 MindsEye is built for the other kind of reading.
-
-**[UnderstandThis.company](https://understand-this-company.vercel.app/)** — *The missing half of the job description.*
-A JD tells you what the company expects. It rarely tells you what you should know going in.
-BeforeInterview fixes that gap — for the candidate.
 
 
 ### ✍️ Writing
