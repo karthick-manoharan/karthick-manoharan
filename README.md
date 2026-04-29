@@ -19,7 +19,7 @@ Software happens to be the craft I tinker with most. It's where I get to run thi
 The web was built for attention, not absorption. So it gave us scroll bars.
 MindsEye is built for the other kind of reading.
 
-**[UnderstandThis.company](https://www.understandthis.company)** — *The missing half of the job description.*
+**[UnderstandThis.company](https://understand-this-company.vercel.app/)** — *The missing half of the job description.*
 A JD tells you what the company expects. It rarely tells you what you should know going in.
 BeforeInterview fixes that gap — for the candidate.
 
