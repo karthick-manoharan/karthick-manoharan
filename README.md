@@ -11,8 +11,7 @@ I apply this to most things — business problems, product decisions, parenting,
 Software happens to be the craft I tinker with most. It's where I get to run this thinking the fastest — pull the abstraction, find the floor, build back up with intent.
 
 ### ✅ Shipped
-**[TabDrop](https://github.com/karthick-manoharan/tab-drop) -- Effortless tab reference injected to Claude.ai, chat.openai.com
-Drop open browser tabs into your AI prompts in Chrome browser— instantly ⚡️
+**[TabDrop](https://github.com/karthick-manoharan/tab-drop)** -- Effortless browser tab reference to your AI prompts in Chrome browser - instantly ⚡️
 
 ### 🚧 Actively Building
 
