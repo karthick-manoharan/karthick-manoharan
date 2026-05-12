@@ -23,9 +23,8 @@ MindsEye is built for the other kind of reading.
 
 ### 🚧 Actively Enhancing
 
-**[MindsEye](https://www.mindseye.love)** — *See beyond the line.*
-The web was built for attention, not absorption. So it gave us scroll bars.
-MindsEye is built for the other kind of reading.
+**[Scribble Bear](https://github.com/karthick-manoharan/scribble-bear)** — *Your Intelligent Writing Partner*
+A mac-only word processor app, where an LLM joins as a collaborator for corrections and improvements.
 
 
 ### ✍️ Writing
